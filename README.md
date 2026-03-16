@@ -67,9 +67,11 @@
   <br>
   (view raw 클릭 해주세요!)
 
+## ⚠️ 이용 안내
+- 본 소프트웨어는 프로토타입입니다.
+  
 ## 📄 라이선스 (License)
 
 Copyright (c) 2026 **Yoon SangHwan** All Rights Reserved.
 
-### ⚠️ 이용 안내
-- 본 소프트웨어는 프로토타입입니다.
+
