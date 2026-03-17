@@ -43,6 +43,7 @@
 | **State Mgt** | Zustand |
 
 ### Backend
+
 | 분류 | 기술 |
 | :--- | :--- |
 | **Core Stack** | FastAPI, Uvicorn (서버 엔진) |
@@ -50,11 +51,13 @@
 | **Automation** | Playwright |
 
 ### Data Analytics
+
 | 분류 | 기술 |
 | :--- | :--- |
 | **Processing** | Pandas |
 
 ### Code Quality
+
 | 분류 | 기술 |
 | :--- | :--- |
 | **Code Review** | CodeRabbit |
@@ -67,11 +70,9 @@
   <br>
   (view raw 클릭 해주세요!)
 
-## ⚠️ 이용 안내
-- 본 소프트웨어는 프로토타입입니다.
-  
 ## 📄 라이선스 (License)
 
 Copyright (c) 2026 **Yoon SangHwan** All Rights Reserved.
 
-
+### ⚠️ 이용 안내
+- 본 소프트웨어는 프로토타입입니다.
