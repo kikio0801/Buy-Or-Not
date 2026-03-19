@@ -74,7 +74,7 @@ Carousell, PropertyGuru 등 싱가포르 주요 플랫폼에서 발생하는 정
 SureAnnot가 제공하는 분석 프로세스를 확인해 보세요.
 
 - **데모 영상 (MP4)**: <br>
-(./2026_03_20_03_51.mp4)
+<video src="./2026_03_20_03_51.mp4" width="100%" controls></video>
 
   <br>
   (view raw 클릭 해주세요!)
