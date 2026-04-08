@@ -100,7 +100,7 @@ Sa-Mara가 제공하는 분석 프로세스를 확인해 보세요.
 
 
 <div align="center">
-  <video src="https://drive.google.com/uc?export=download&id=19I3m_yNXg8dCRux-nY4aJzf39EKUEfw8" width="600" autoplay loop muted playsinline></video>
+  <video src="https://raw.githubusercontent.com/kikio0801/Buy-Or-Not/main/Sa-Mara.mp4" width="600" autoplay loop muted playsinline></video>
 </div>
   <br>
 
