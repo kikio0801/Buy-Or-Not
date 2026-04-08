@@ -99,9 +99,7 @@ Sa-Mara가 제공하는 분석 프로세스를 확인해 보세요.
 - **데모 영상 (MP4)**: <br>
 
 
-<div align="center">
-  <video src="https://raw.githubusercontent.com/kikio0801/Buy-Or-Not/main/Sa-Mara.mp4" width="600" autoplay loop muted playsinline></video>
-</div>
+![서비스 시연](Sa-Mara.webp)
   <br>
 
 
